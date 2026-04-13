@@ -1,31 +1,31 @@
 Mini-project
 About Identifying key factors that influenced election victories or defeats across various states. Measuring turnout percentages to determine public engagement levels. Analyzing performance based on category and gender. Hence this project analyzes assembly election data across multiple Indian states.
 
- PROJECT OVERVIEW AND OBJECTIVE
+ PROJECT OVERVIEW AND OBJECTIVE:
         This project involves cleaning, transforming, and analysing raw data using Excel and creating an interactive Power BI dashboard to derive meaningful business insights.
         
   The main objective is to demonstrate data pre-processing techniques using Excel and an interactive Power BI dashboard visualization to make informed decisions.
   
- DATA SOURCES
+ DATA SOURCES:
         Source Description and Timeline: India Data Portal: https://indiadataportal.com/  Search and 2009-2021. 
  Domain: Politics (Election).
 
 PROBLEM STATEMENT
  
 Understanding Election Outcomes:
-Identifing the key factors that influenced victory or defeat across different states and constituencies.
+  * Identifing the key factors that influenced victory or defeat across different states and constituencies.
 
  Analyzing Voter Participation:
-   Measuring voter turnout percentages to determine public engagement levels in various election cycles.
+  * Measuring voter turnout percentages to determine public engagement levels in various election cycles.
 
   Evaluating Candidate Diversity:
-   Analyzing the performance of candidates based on their category (General, SC,ST) and gender to understand representation.
+  * Analyzing the performance of candidates based on their category (General, SC,ST) and gender to understand representation.
 
  Assessing Victory Margins:
-   Identifying “close-contest” seats versus “safe” seats by calculating the average winning margin percentage.
+  * Identifying “close-contest” seats versus “safe” seats by calculating the average winning margin percentage.
 
    Tracking Historical Trends: 
-   Monitoring how voting patterns and total votes obtained have changed over time using historical election dates.
+  * Monitoring how voting patterns and total votes obtained have changed over time using historical election dates.
              
 ### ATTRIBUTE (COLUMN/FEATURES) DETAILS:
 
@@ -116,8 +116,7 @@ Insights: Highlights the overall health of the election data, such as 7M Total V
 
 
 
-INSIGHT & CONCLUSIONS
-OVERVIEW
+INSIGHT & OVERVIEW:
 
 
 <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/18ddce3f-423f-48a1-a06f-e7e57773166c" />
@@ -135,7 +134,7 @@ Analysis Insights:
 
 ●	Tracks how voting patterns changed over time. Uses the Election Date to show if voter turnout is increasing or decreasing across different years.
  
-CONCLUSIONS
+CONCLUSIONS:
        The integration of Excel and Power BI proved effective for end-to-end data analysis, from raw data to visual reporting.
 
 
