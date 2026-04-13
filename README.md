@@ -47,8 +47,8 @@ Tasks Performed:
 DATA MODELLING AND DAX (POWER BI)
 ● Data Model: Connected Dimension tables to a central Fact table via One-to-Many (1:*) links.
 
-<img width="1334" height="665" alt="Screenshot 2026-03-03 110451" src="https://github.com/user-attachments/assets/815692ba-3e32-4b44-
-a2fd-8f6b917d74bd" />
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/c77c3248-90c8-4307-aff5-62a8318ffdb9" />
+
 
 DAX Measures: 
   Total Votes: SUM(‘Assembly Elections Data’[Sum of Total Votes Obtained])
