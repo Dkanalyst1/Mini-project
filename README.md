@@ -1,4 +1,4 @@
-<img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/33932df6-9004-4f9d-b994-d67627577c4a" /># Mini-project
+Mini-project
 About Identifying key factors that influenced election victories or defeats across various states. Measuring turnout percentages to determine public engagement levels. Analyzing performance based on category and gender. Hence this project analyzes assembly election data across multiple Indian states.
 
      PROJECT OVERVIEW AND OBJECTIVE
