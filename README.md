@@ -12,28 +12,35 @@ PROBLEM STATEMENT
  
 Understanding Election Outcomes:
 Identifing the key factors that influenced victory or defeat across different states and constituencies.
+
      Analyzing Voter Participation:
 Measuring voter turnout percentages to determine public engagement levels in various election cycles.
+
      Evaluating Candidate Diversity:
 Analyzing the performance of candidates based on their category (General, SC,ST) and gender to understand representation.
+
      Assessing Victory Margins:
 Identifying “close-contest” seats versus “safe” seats by calculating the average winning margin percentage.
+
      Tracking Historical Trends: 
              Monitoring how voting patterns and total votes obtained have changed over time using historical election dates.
-ATTRIBUTE (COLUMN/FEATURES) DETAILS:
-Attributes	Data Type	Description
-Election Date	Date	The Specific date when the election was held.
-State Name	Text	Name of the Indian State where the constituency is located.
-Assembly No	Whole Number	The official constituency number assigned by the Election commission.
-Assembly Constituency Name	Text	The Specific name of the legislative assembly seat (e.g., Thousand Lights).
-Candidate Name	Text	Name of the individual contestant in the election.
-Candidate Type	Text	Categorization of candidates based on reservation (General, SC,ST).
-Sex	Text	Gender of the candidate (Male,Female,Others).
-Party	Text	Political Party affiliation of the candidate.
-Position	Whole Number	Final rank of the candidate based on votes(1 = winner).
-Total Votes Obtained	Decimal Number	Total number of valid votes secured by the candidate.
-Margin Percentage	Percentage	The difference in vote share between the candidate and the runner-up.
-Turn out Percentage	Percentage	The percentage of total electors who actually cast their votes.
+             
+### ATTRIBUTE (COLUMN/FEATURES) DETAILS:
+
+| Attributes | Data Type | Description |
+| :--- | :--- | :--- |
+| Election Date | Date | The Specific date when the election was held. |
+| State Name | Text | Name of the Indian State where the constituency is located. |
+| Assembly No | Whole Number | The official constituency number assigned by the Election Commission. |
+| Assembly Constituency Name | Text | The Specific name of the legislative assembly seat (e.g., Thousand Lights). |
+| Candidate Name | Text | Name of the individual contestant in the election. |
+| Candidate Type | Text | Categorization of candidates based on reservation (General, SC, ST). |
+| Sex | Text | Gender of the candidate (Male, Female, Others). |
+| Party | Text | Political Party affiliation of the candidate. |
+| Position | Whole Number | Final rank of the candidate based on votes (1 = winner). |
+| Total Votes Obtained | Decimal Number | Total number of valid votes secured by the candidate. |
+| Margin Percentage | Percentage | The difference in vote share between the candidate and the runner-up. |
+| Turn out Percentage | Percentage | The percentage of total electors who actually cast their votes. |
 
 TOOLS & TECHNOLOGIES
   ● Excel: Data cleaning, transformation, and Pivot Tables. 
